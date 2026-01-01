@@ -24,23 +24,6 @@ Uygulama, **Google Gemini** ve **xAI (Grok)** modellerini kullanarak kullanıcı
 * **Veri İşleme:** Pandas, NumPy
 * **API Entegrasyonu:** `google-generativeai`, `openai` (xAI uyumlu)
 
-## 📂 Proje Yapısı
-
-```text
-futbol-scout-asistani/
-├── app.py                  # Ana uygulama dosyası (Streamlit)
-├── requirements.txt        # Gerekli kütüphaneler
-├── .env                    # API anahtarları (Gizli dosya)
-├── data/
-│   └── test_dataset.csv    # Oyuncu verileri ve test seti
-├── models/
-│   ├── gemini_handler.py   # Google Gemini API entegrasyonu
-│   └── xai_handler.py      # xAI (Grok) API entegrasyonu
-└── utils/
-    ├── data_loader.py      # Veri yükleme ve arama fonksiyonları
-    ├── evaluation.py       # Model performans ölçüm sistemi
-    └── metrics.py          # Metrik hesaplama araçları
-
 ⚙️ Kurulum ve Çalıştırma
 Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları izleyin.
 
