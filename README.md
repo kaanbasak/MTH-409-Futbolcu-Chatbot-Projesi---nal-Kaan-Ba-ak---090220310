@@ -9,6 +9,12 @@ Bu proje, futbolcu verilerini analiz etmek ve kullanıcıların sorularını yan
 
 Uygulama, **Google Gemini** ve **xAI (Grok)** modellerini kullanarak kullanıcı sorularını yanıtlar ve cevap kalitesini ölçmek için özel bir **Değerlendirme (Evaluation) Paneli** içerir.
 
+## 🎯 Projenin Amacı
+
+Bu projenin temel amacı, geleneksel futbol scout süreçlerini dijitalleştirerek hızlandırmaktır. 
+
+Karmaşık Excel dosyaları veya statik veri tabanları arasında manuel arama yapmak yerine; kullanıcıların **doğal dille** soru sorarak (Örn: *"X oyuncusu hangi takımda?"*, *"Y oyuncusunun mevkisi ne?"*) aradıkları kritik bilgilere saniyeler içinde ulaşmasını sağlayan verimli ve interaktif bir deneyim sunmaktır.
+
 ## 🚀 Özellikler
 
 * **🤖 Çift Model Desteği:** Kullanıcılar **Google Gemini** veya **xAI (Grok)** modelleri arasında seçim yapabilir.
