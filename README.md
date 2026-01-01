@@ -30,7 +30,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 1. Projeyi Klonlayın
 
 Bash
-git clone [https://github.com/KULLANICI_ADINIZ/futbol-scout-asistani.git](https://github.com/KULLANICI_ADINIZ/futbol-scout-asistani.git)
+git clone [https://github.com/KULLANICI_ADINIZ/futbol-scout-asistani.git]
 cd futbol-scout-asistani
 2. Sanal Ortam Oluşturun (Önerilen)
 
