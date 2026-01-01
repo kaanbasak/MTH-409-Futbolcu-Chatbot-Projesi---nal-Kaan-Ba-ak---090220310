@@ -32,6 +32,7 @@ Projeyi yerel bilgisayarınızda çalıştırmak için aşağıdaki adımları i
 Bash
 git clone [https://github.com/KULLANICI_ADINIZ/futbol-scout-asistani.git]
 cd futbol-scout-asistani
+
 2. Sanal Ortam Oluşturun (Önerilen)
 
 Bash
@@ -42,10 +43,12 @@ python -m venv venv
 # Mac/Linux
 python3 -m venv venv
 source venv/bin/activate
+
 3. Gerekli Kütüphaneleri Yükleyin
 
 Bash
 pip install -r requirements.txt
+
 4. .env Dosyasını Ayarlayın
 
 Proje ana dizininde .env adında bir dosya oluşturun ve API anahtarlarınızı ekleyin:
@@ -53,6 +56,7 @@ Proje ana dizininde .env adında bir dosya oluşturun ve API anahtarlarınızı 
 Plaintext
 GOOGLE_API_KEY="Sizin_Google_Gemini_Keyiniz"
 XAI_API_KEY="Sizin_xAI_Grok_Keyiniz"
+
 5. Uygulamayı Başlatın
 
 Bash
