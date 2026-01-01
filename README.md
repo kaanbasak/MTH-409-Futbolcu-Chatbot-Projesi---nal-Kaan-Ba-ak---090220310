@@ -36,12 +36,11 @@ cd futbol-scout-asistani
 2. Sanal Ortam Oluşturun (Önerilen)
 
 Bash
-# Windows
-python -m venv venv
+
+python -m venv venv (windows)
 .\venv\Scripts\activate
 
-# Mac/Linux
-python3 -m venv venv
+python3 -m venv venv (mac/linux)
 source venv/bin/activate
 
 3. Gerekli Kütüphaneleri Yükleyin
