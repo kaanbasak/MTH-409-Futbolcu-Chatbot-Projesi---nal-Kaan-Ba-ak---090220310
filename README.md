@@ -20,7 +20,7 @@ Uygulama, **Google Gemini** ve **xAI (Grok)** modellerini kullanarak kullanıcı
 ## 🛠️ Kullanılan Teknolojiler
 
 * **Arayüz:** [Streamlit](https://streamlit.io/)
-* **LLM Modelleri:** Google Gemini 1.5 Flash & xAI Grok-Beta
+* **LLM Modelleri:** Google Gemini 2.5 Flash & xAI grok-4-latest
 * **Veri İşleme:** Pandas, NumPy
 * **API Entegrasyonu:** `google-generativeai`, `openai` (xAI uyumlu)
 
